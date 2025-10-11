@@ -9,4 +9,8 @@
 5. Execute o comando `cmake --build .` para buildar o projeto 
 
 ## Alunos:
+- Ana Raquel -
+- Izadora - 
+- Laís Saraiva Peixoto Costa - lsps@cin.ufpe.br
+- Laura - 
 - Nathan Barbosa dos Santos - nbs3@cin.ufpe.br 
